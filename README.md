@@ -1,7 +1,6 @@
-# ArcoLinuxD BSPWM Desktop
+# ArcoLinuxD Herbstluftwm Desktop
 
-All credits to Nick Petrov & Kevin Yanez aka (INTRCPTR)	for making this configuration.
-
+All credits to xeoncpu for helping out
 
 
 # Start by installing the latest ArcoLinuxD installation
