@@ -110,7 +110,7 @@ sudo pacman -S --noconfirm --needed dropbox
 #sudo pacman -S --noconfirm --needed insync
 sudo pacman -S --noconfirm --needed spotify
 #fix for spotify not moving to specific tag or workspace
-sh AUR/install-polybarwm-git-v*.sh
+sh AUR/install-spotifywm-git-v*.sh
 
 echo "################################################################"
 echo "####     Software from ArcoLinux 3party Repository installed       ####"
