@@ -64,10 +64,8 @@ xtitle-git
 arcolinux-herbstluftwm-git
 arcolinux-herbstluftwm-dconf-git
 arcolinux-config-herbstluftwm-git
-awesome-terminal-fonts
 polybar
 arcolinux-polybar-git
-xtitle-git
 )
 
 count=0
