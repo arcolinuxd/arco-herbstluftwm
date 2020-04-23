@@ -57,17 +57,17 @@ thunar-volman
 xfce4-terminal
 arcolinux-xfce-git
 arcolinux-local-xfce4-git
-bspwm
+herbstluftwm
 sxhkd
 xdo
-sutils-git
 xtitle-git
-arcolinux-bspwm-git
-arcolinux-bspwm-dconf-git
-arcolinux-config-bspwm-git
+arcolinux-herbstluftwm-git
+arcolinux-herbstluftwm-dconf-git
+arcolinux-config-herbstluftwm-git
 awesome-terminal-fonts
 polybar
 arcolinux-polybar-git
+xtitle-git
 )
 
 count=0
