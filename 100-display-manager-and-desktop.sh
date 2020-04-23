@@ -59,6 +59,7 @@ arcolinux-xfce-git
 arcolinux-local-xfce4-git
 herbstluftwm
 sxhkd
+dmenu
 xdo
 xtitle-git
 arcolinux-herbstluftwm-git
