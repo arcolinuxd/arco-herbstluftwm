@@ -67,6 +67,7 @@ arcolinux-herbstluftwm-dconf-git
 arcolinux-config-herbstluftwm-git
 polybar
 arcolinux-polybar-git
+arcolinux-logout-git
 )
 
 count=0
