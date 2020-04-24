@@ -61,6 +61,7 @@ herbstluftwm
 sxhkd
 dmenu
 xdo
+feh
 xtitle-git
 arcolinux-herbstluftwm-git
 arcolinux-herbstluftwm-dconf-git
