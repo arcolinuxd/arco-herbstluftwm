@@ -63,7 +63,7 @@ feh
 xtitle-git
 arcolinux-herbstluftwm-git
 arcolinux-herbstluftwm-dconf-git
-arcolinux-config-herbstluftwm-git
+arcolinux-config-all-desktops-git
 polybar
 arcolinux-polybar-git
 arcolinux-logout-git
