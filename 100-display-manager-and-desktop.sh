@@ -66,7 +66,7 @@ arcolinux-dconf-all-desktops-git
 arcolinux-config-all-desktops-git
 polybar
 arcolinux-polybar-git
-arcolinux-logout-git
+archlinux-logout-git
 )
 
 count=0
